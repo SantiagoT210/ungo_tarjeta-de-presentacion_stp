@@ -1,0 +1,30 @@
+.precio-btn{
+    height: auto;
+    margin-top: 17px;
+    display: flex;
+    justify-content:center;
+}
+
+.precio-btn a{
+    height: 50px;
+    width: 176px;
+    border-radius: 60px;
+    -webkit-border-radius: 60px;
+    -moz-border-radius: 60px;
+    -ms-border-radius: 60px;
+    -o-border-radius: 60px;
+    font-family: sans-serif;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    color: #fff;
+    text-align: center;
+    line-height: 25px;
+    background:#9cebd5;
+    cursor: pointer;
+    text-decoration: none;
+
+}
+
+.precio-btn a:hover{
+    background: #34495e;
+}
